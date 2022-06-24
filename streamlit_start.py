@@ -1,4 +1,4 @@
-# pip install tensorflow==2.6.0 --ignore-installed
+pip install tensorflow==2.6.0 --ignore-installed
 import tensorflow 
 import io
 import streamlit as st
